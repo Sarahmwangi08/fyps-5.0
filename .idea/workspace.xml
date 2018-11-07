@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b9c93031-4ea5-4711-a431-84659ae98636" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/fyps-4.0/php/getProfs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fyps-4.0" beforeDir="false" afterPath="$PROJECT_DIR$/fyps-4.0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fyps-4.0/accordion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fyps-4.0/accordion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fyps-4.0/add-course.html" beforeDir="false" afterPath="$PROJECT_DIR$/fyps-4.0/add-course.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fyps-4.0/add-department.html" beforeDir="false" afterPath="$PROJECT_DIR$/fyps-4.0/add-department.html" afterDir="false" />
@@ -360,12 +362,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541587070362</updated>
-      <workItem from="1541587072035" duration="9238000" />
+      <workItem from="1541587072035" duration="9483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9238000" />
+    <option name="totallyTimeSpent" value="9483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
